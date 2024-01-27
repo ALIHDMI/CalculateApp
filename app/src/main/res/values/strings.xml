@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CalculateApp</string>
+
+    <string-array name="forSpinner">
+        <item>Bir</item>
+        <item>Eki</item>
+        <item>Uch</item>
+        <item>Tort</item>
+        <item>Besh</item>
+        <item>Alti</item>
+        <item>Zheti</item>
+        <item>Segis</item>
+        <item>Toguz</item>
+        <item>On</item>
+    </string-array>
+</resources>
